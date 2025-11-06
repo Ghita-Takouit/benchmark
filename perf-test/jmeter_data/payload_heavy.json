@@ -1,0 +1,78 @@
+{
+  "sku": "ITEM-HEAVY-001",
+  "name": "Premium Performance Test Item with Extended Specifications",
+  "price": 149.99,
+  "stock": 100,
+  "category": {
+    "name": "Electronics"
+  },
+  "description": "This is a comprehensive performance test item designed to simulate real-world scenarios with substantial data payloads. The item represents a premium electronic device with extensive specifications and detailed documentation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "specifications": {
+    "dimensions": {
+      "length": 25.4,
+      "width": 15.2,
+      "height": 8.9,
+      "unit": "cm"
+    },
+    "weight": {
+      "value": 1.2,
+      "unit": "kg"
+    },
+    "materials": ["aluminum", "glass", "plastic"],
+    "features": [
+      "High-resolution display",
+      "Advanced processing capabilities",
+      "Extended battery life",
+      "Wireless connectivity",
+      "Water resistance",
+      "Biometric authentication",
+      "Multi-language support",
+      "Cloud synchronization",
+      "Advanced security features",
+      "Customizable interface"
+    ],
+    "technical_details": {
+      "processor": "Octa-core 2.8GHz",
+      "memory": "8GB RAM",
+      "storage": "256GB SSD",
+      "display": "6.1-inch OLED",
+      "battery": "4000mAh Li-ion",
+      "operating_system": "Latest OS version",
+      "connectivity": ["WiFi 6", "Bluetooth 5.2", "5G", "NFC"],
+      "sensors": ["accelerometer", "gyroscope", "magnetometer", "proximity", "ambient light"],
+      "ports": ["USB-C", "3.5mm audio jack"]
+    }
+  },
+  "warranty": {
+    "duration": 24,
+    "unit": "months",
+    "coverage": "comprehensive",
+    "terms": "Standard manufacturer warranty covering defects in materials and workmanship under normal use conditions"
+  },
+  "certifications": ["CE", "FCC", "RoHS", "Energy Star", "ISO 9001"],
+  "availability": {
+    "regions": ["North America", "Europe", "Asia Pacific"],
+    "shipping": {
+      "standard": "5-7 business days",
+      "express": "2-3 business days",
+      "overnight": "next business day"
+    }
+  },
+  "reviews": {
+    "average_rating": 4.7,
+    "total_reviews": 1247,
+    "five_star": 832,
+    "four_star": 289,
+    "three_star": 87,
+    "two_star": 23,
+    "one_star": 16
+  },
+  "metadata": {
+    "created_date": "2024-01-15T10:30:00Z",
+    "last_updated": "2024-10-28T14:22:15Z",
+    "version": "2.1.0",
+    "tags": ["premium", "electronics", "high-performance", "wireless", "portable"],
+    "internal_notes": "This item is part of our premium product line and requires special handling procedures during fulfillment and shipping processes."
+  }
+}
+

@@ -1,0 +1,13 @@
+&lt;component name="ProjectRunConfigurationManager"&gt;
+  &lt;configuration default="false" name="JMeter - Java Runner (Basic)" type="Application" factoryName="Application"&gt;
+    &lt;option name="MAIN_CLASS_NAME" value="com.benchmark.perf_test.jmeter.JMeterTestRunner" /&gt;
+    &lt;module name="perf-test" /&gt;
+    &lt;option name="PROGRAM_PARAMETERS" value="perf-test-plan.jmx" /&gt;
+    &lt;option name="VM_PARAMETERS" value="-Djmeter.home=/usr/local/Cellar/jmeter/5.6.3/libexec" /&gt;
+    &lt;option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" /&gt;
+    &lt;method v="2"&gt;
+      &lt;option name="Make" enabled="true" /&gt;
+    &lt;/method&gt;
+  &lt;/configuration&gt;
+&lt;/component&gt;
+
