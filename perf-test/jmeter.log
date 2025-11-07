@@ -1,0 +1,162 @@
+2025-11-03 20:18:52,504 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-11-03 20:18:52,516 INFO o.a.j.JMeter: Loading user properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/user.properties
+2025-11-03 20:18:52,516 INFO o.a.j.JMeter: Loading system properties from: /opt/homebrew/Cellar/jmeter/5.6.3/libexec/bin/system.properties
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: Version 5.6.3
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: java.version=21.0.9
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: os.arch=aarch64
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: os.version=26.0.1
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: java.awt.headless=null
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-11-03 20:18:52,519 INFO o.a.j.JMeter: Available Processors =8
+2025-11-03 20:18:52,524 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-11-03 20:18:52,524 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-11-03 20:18:52,524 INFO o.a.j.JMeter: JMeterHome=/opt/homebrew/Cellar/jmeter/5.6.3/libexec
+2025-11-03 20:18:52,524 INFO o.a.j.JMeter: user.dir  =/Users/Aeztic/IdeaProjects/perf-test
+2025-11-03 20:18:52,524 INFO o.a.j.JMeter: PWD       =/Users/Aeztic/IdeaProjects/perf-test
+2025-11-03 20:18:52,527 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: MacBook-Pro-de-Ghita.local FullName: localhost
+2025-11-03 20:18:52,534 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-11-03 20:18:52,818 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-11-03 20:18:53,626 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.action.Command], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:18:53,690 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.gui.plugin.MenuCreator], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:18:53,767 INFO o.j.r.JARSourceHTTP: Found cached repo
+2025-11-03 20:18:53,863 INFO o.j.r.PluginManager: Plugins Status: [jpgc-plugins-manager=1.9, jmeter-core=5.6.3, jmeter-ftp=5.6.3, jmeter-http=5.6.3, jmeter-jdbc=5.6.3, jmeter-jms=5.6.3, jmeter-junit=5.6.3, jmeter-java=5.6.3, jmeter-ldap=5.6.3, jmeter-mail=5.6.3, jmeter-mongodb=5.6.3, jmeter-native=5.6.3, jmeter-tcp=5.6.3, jmeter-components=5.6.3]
+2025-11-03 20:18:53,863 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2025-11-03 20:18:54,952 INFO o.a.j.JMeterGuiLauncher: Loading file: /Users/Aeztic/IdeaProjects/perf-test/jmeter_data/CSV Data Set Config.jmx
+2025-11-03 20:18:54,954 INFO o.a.j.s.FileServer: Default base='/Users/Aeztic/IdeaProjects/perf-test'
+2025-11-03 20:18:54,955 INFO o.a.j.s.FileServer: Set new base='/Users/Aeztic/IdeaProjects/perf-test/jmeter_data'
+2025-11-03 20:18:55,075 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-11-03 20:18:55,080 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-11-03 20:18:55,082 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-11-03 20:18:55,083 INFO o.a.j.s.SaveService: Loading file: /Users/Aeztic/IdeaProjects/perf-test/jmeter_data/CSV Data Set Config.jmx
+2025-11-03 20:18:55,130 INFO o.a.j.s.FileServer: Set new base='/Users/Aeztic/IdeaProjects/perf-test/jmeter_data'
+2025-11-03 20:21:47,188 INFO o.a.j.s.FileServer: Set new base='/Users/Aeztic/IdeaProjects/perf-test/jmeter_data'
+2025-11-03 20:21:57,919 INFO o.a.j.s.FileServer: Set new base='/Users/Aeztic/IdeaProjects/perf-test/jmeter_data'
+2025-11-03 20:22:22,647 INFO o.a.j.s.FileServer: Set new base='/Users/Aeztic/IdeaProjects/perf-test/jmeter_data'
+2025-11-03 20:43:20,873 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.1
+2025-11-03 20:43:20,933 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.1
+2025-11-03 20:43:23,394 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2025-11-03 20:43:23,413 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2025-11-03 20:43:25,395 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.3310001
+2025-11-03 20:43:25,419 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.3310001
+2025-11-03 20:43:29,053 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2025-11-03 20:43:29,074 INFO o.a.j.g.JMeterUIDefaults: Applying font scale factor: 1.21
+2025-11-03 20:46:18,216 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-03 20:46:18,217 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-03 20:46:18,217 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-03 20:46:18,217 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-03 20:46:18,217 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-11-03 20:46:18,217 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-11-03 20:53:54,298 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.backend.BackendListenerClient], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:53:54,310 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-11-03 20:53:54,310 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-11-03 20:53:54,310 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-11-03 20:53:54,310 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-11-03 20:55:50,419 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.ResultRenderer], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:55:50,428 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.visualizers.RequestView], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:57:53,596 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-11-03 20:57:53,597 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-11-03 20:57:53,597 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-11-03 20:57:53,598 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-11-03 20:57:53,598 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-11-03 20:57:53,619 INFO o.a.j.r.ClassFinder: Will scan jar /opt/homebrew/Cellar/jmeter/5.6.3/libexec/lib/ext/jmeter-plugins-manager-1.9.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-03 20:57:53,624 INFO o.a.j.v.b.BackendListener: Backend Listener: Starting worker with class: class org.apache.jmeter.visualizers.backend.influxdb.InfluxdbBackendListenerClient and queue capacity: 5000
+2025-11-03 20:57:53,625 INFO o.a.j.v.b.BackendListener: Backend Listener: Started  worker with class: class org.apache.jmeter.visualizers.backend.influxdb.InfluxdbBackendListenerClient
+2025-11-03 20:57:53,668 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-11-03 20:57:53,719 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Read Heavy
+2025-11-03 20:57:53,720 INFO o.a.j.e.StandardJMeterEngine: Starting 100 threads for group Read Heavy.
+2025-11-03 20:57:53,720 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-11-03 20:57:53,720 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=100 ramp-up=60 delayedStart=false
+2025-11-03 20:57:53,725 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-1
+2025-11-03 20:57:53,727 INFO o.a.j.s.FileServer: Stored: /Users/Aeztic/IdeaProjects/perf-test/jmeter_data/categories.csv
+2025-11-03 20:57:53,743 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = MacBook-Pro-de-Ghita.local
+2025-11-03 20:57:53,749 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-11-03 20:57:53,751 ERROR o.a.j.v.b.i.HttpMetricsSender: Error writing metrics to influxDB Url: http://localhost:8086/api/v2/write?org=perf&bucket=jmeter&precision=ms, responseCode: 401, responseBody: {"code":"unauthorized","message":"unauthorized access"}
+2025-11-03 20:57:53,751 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-11-03 20:57:53,751 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-11-03 20:57:54,326 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-2
+2025-11-03 20:57:54,927 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-3
+2025-11-03 20:57:55,527 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-4
+2025-11-03 20:57:56,124 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-5
+2025-11-03 20:57:56,721 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-6
+2025-11-03 20:57:57,322 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-7
+2025-11-03 20:57:57,924 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-8
+2025-11-03 20:57:58,523 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-9
+2025-11-03 20:57:58,678 ERROR o.a.j.v.b.i.HttpMetricsSender: Error writing metrics to influxDB Url: http://localhost:8086/api/v2/write?org=perf&bucket=jmeter&precision=ms, responseCode: 401, responseBody: {"code":"unauthorized","message":"unauthorized access"}
+2025-11-03 20:57:59,124 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-10
+2025-11-03 20:57:59,724 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-11
+2025-11-03 20:58:00,326 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-12
+2025-11-03 20:58:00,925 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-13
+2025-11-03 20:58:01,522 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-14
+2025-11-03 20:58:02,126 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-15
+2025-11-03 20:58:02,721 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-16
+2025-11-03 20:58:03,341 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-17
+2025-11-03 20:58:04,283 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-18
+2025-11-03 20:58:04,284 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-9
+2025-11-03 20:58:04,914 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-7
+2025-11-03 20:58:04,914 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-19
+2025-11-03 20:58:04,863 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-5
+2025-11-03 20:58:04,470 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-4
+2025-11-03 20:58:05,328 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-11
+2025-11-03 20:58:05,328 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-20
+2025-11-03 20:58:05,329 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-1
+2025-11-03 20:58:05,328 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-13
+2025-11-03 20:58:05,329 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-3
+2025-11-03 20:58:05,344 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-8
+2025-11-03 20:58:05,518 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-12
+2025-11-03 20:58:05,765 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-21
+2025-11-03 20:58:05,813 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-16
+2025-11-03 20:58:06,309 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-14
+2025-11-03 20:58:06,477 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-2
+2025-11-03 20:58:06,477 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-15
+2025-11-03 20:58:08,560 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-25
+2025-11-03 20:58:08,369 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-10
+2025-11-03 20:58:08,561 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-19
+2025-11-03 20:58:08,565 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-22
+2025-11-03 20:58:08,566 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-20
+2025-11-03 20:58:08,883 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-26
+2025-11-03 20:58:08,883 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-17
+2025-11-03 20:58:08,882 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-23
+2025-11-03 20:58:09,771 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-26
+2025-11-03 20:58:09,771 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-27
+2025-11-03 20:58:09,771 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-18
+2025-11-03 20:58:09,884 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-22
+2025-11-03 20:58:09,926 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-28
+2025-11-03 20:58:11,061 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-28
+2025-11-03 20:58:11,061 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-6
+2025-11-03 20:58:11,062 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-27
+2025-11-03 20:58:11,128 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-30
+2025-11-03 20:58:11,182 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-21
+2025-11-03 20:58:11,342 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-30
+2025-11-03 20:58:11,725 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-31
+2025-11-03 20:58:11,918 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-31
+2025-11-03 20:58:12,325 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-32
+2025-11-03 20:58:12,480 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-32
+2025-11-03 20:58:12,925 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-33
+2025-11-03 20:58:13,083 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-33
+2025-11-03 20:58:13,522 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-34
+2025-11-03 20:58:13,709 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-34
+2025-11-03 20:58:14,123 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-35
+2025-11-03 20:58:14,248 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-35
+2025-11-03 20:58:14,726 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-36
+2025-11-03 20:58:14,872 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-36
+2025-11-03 20:58:15,325 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-37
+2025-11-03 20:58:15,449 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-37
+2025-11-03 20:58:15,929 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-38
+2025-11-03 20:58:16,117 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-38
+2025-11-03 20:58:16,523 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-39
+2025-11-03 20:58:16,906 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-39
+2025-11-03 20:58:17,120 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-40
+2025-11-03 20:58:17,358 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-40
+2025-11-03 20:58:17,725 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-41
+2025-11-03 20:58:17,911 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-41
+2025-11-03 20:58:18,324 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-42
+2025-11-03 20:58:18,450 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-42
+2025-11-03 20:58:18,923 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-43
+2025-11-03 20:58:19,271 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-43
+2025-11-03 20:58:19,525 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-44
+2025-11-03 20:58:19,892 INFO o.a.j.t.JMeterThread: Thread finished: Read Heavy 1-44
+2025-11-03 20:58:20,120 INFO o.a.j.t.JMeterThread: Thread started: Read Heavy 1-45
