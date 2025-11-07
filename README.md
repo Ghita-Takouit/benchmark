@@ -155,3 +155,55 @@ C’est le test de base : il mesure la performance de lecture simple.
 <img width="1579" height="919" alt="Screenshot 2025-11-04 at 9 54 12 PM" src="https://github.com/user-attachments/assets/f1bc9fb0-67a5-43a0-b736-79d3aadbe9a8" />
 
 <img width="1304" height="811" alt="Screenshot 2025-11-04 at 9 54 36 PM" src="https://github.com/user-attachments/assets/d516a670-20fd-4774-a48e-a576d1183abe" />
+
+
+## Scénario A : Join Filter
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 05 PM" src="https://github.com/user-attachments/assets/d6a925bb-2e8f-418d-a44a-453580135c21" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 14 PM" src="https://github.com/user-attachments/assets/98d87416-fc6c-46cb-8ea2-149fcc020af8" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 23 PM" src="https://github.com/user-attachments/assets/9c6edd20-7fd5-4c08-ab20-13a4debbbeab" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 30 PM" src="https://github.com/user-attachments/assets/8691f30b-2799-4441-ba0f-33fdf0e0cfcf" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 38 PM" src="https://github.com/user-attachments/assets/2c5d23d2-b176-42be-97b3-d62ab1e2956d" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 46 PM" src="https://github.com/user-attachments/assets/0100859c-0045-40a6-9020-81b506f8c94a" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 54 54 PM" src="https://github.com/user-attachments/assets/15301102-ff49-4f18-a46b-314a35dd3fda" />
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 55 13 PM" src="https://github.com/user-attachments/assets/99b7af74-a849-4790-935e-bfe04d6eed0c" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 55 24 PM" src="https://github.com/user-attachments/assets/e300b52e-f22a-49bd-a3f8-2cdee4009340" />
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 55 31 PM" src="https://github.com/user-attachments/assets/72a4dac2-28f2-4677-bebf-9c92744fb93e" />
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 55 40 PM" src="https://github.com/user-attachments/assets/49a3a175-e9eb-43c3-9d44-621c06000ee4" />
+
+
+<img width="1298" height="810" alt="Screenshot 2025-11-07 at 3 55 49 PM" src="https://github.com/user-attachments/assets/2161db01-ba97-49d0-b93d-522cb73f7230" />
+
+### Thread 60 
+<img width="1588" height="916" alt="Screenshot 2025-11-07 at 3 58 33 PM" src="https://github.com/user-attachments/assets/ac814491-4f09-4953-bb8e-b1cb64010f50" />
+
+<img width="1588" height="916" alt="Screenshot 2025-11-07 at 3 58 42 PM" src="https://github.com/user-attachments/assets/336c0cb5-bba6-45de-a360-f87feb55cc70" />
+
+<img width="1588" height="916" alt="Screenshot 2025-11-07 at 3 58 49 PM" src="https://github.com/user-attachments/assets/59888c79-9ba2-4c10-8adb-a5ba976f8619" />
+
+<img width="1588" height="916" alt="Screenshot 2025-11-07 at 3 58 58 PM" src="https://github.com/user-attachments/assets/7a2d4a17-f32d-4c35-b48a-e6ae838eec5a" />
+
+<img width="1294" height="805" alt="Screenshot 2025-11-07 at 3 59 18 PM" src="https://github.com/user-attachments/assets/e997de2a-f714-4608-bcad-5e8868e0ee51" />
+
+<img width="1365" height="821" alt="Screenshot 2025-11-07 at 3 59 31 PM" src="https://github.com/user-attachments/assets/9cda7a03-d91e-483d-9ee7-280bc46dad32" />
+<img width="1365" height="821" alt="Screenshot 2025-11-07 at 3 59 36 PM" src="https://github.com/user-attachments/assets/9e0085f0-bce4-491a-b6a0-70d996ea1dd3" />
+<img width="1365" height="821" alt="Screenshot 2025-11-07 at 3 59 49 PM" src="https://github.com/user-attachments/assets/f452ca14-bdbc-4682-89c6-60171e2f1f58" />
+
+<img width="1365" height="821" alt="Screenshot 2025-11-07 at 3 59 56 PM" src="https://github.com/user-attachments/assets/a56e7483-230c-4572-ab8e-e2e79dd03480" />
+
+### Thread 120
+
+<img width="1299" height="805" alt="Screenshot 2025-11-07 at 4 00 47 PM" src="https://github.com/user-attachments/assets/978b021f-250c-4354-a508-79b3f95c6058" />
+
+<img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 02 PM" src="https://github.com/user-attachments/assets/ed02ffc1-385d-47a2-8717-cdfbee32b5a7" />
+<img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 10 PM" src="https://github.com/user-attachments/assets/c3b4599b-1843-4d75-ba42-552067e9b2b6" />
+<img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 16 PM" src="https://github.com/user-attachments/assets/872f966a-9d3e-474e-a4f2-b479d7c8088a" />
+<img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 26 PM" src="https://github.com/user-attachments/assets/74e33f99-0aeb-4c4d-9c96-aec07bd8f09f" />
+<img width="1456" height="805" alt="Screenshot 2025-11-07 at 4 01 51 PM" src="https://github.com/user-attachments/assets/3fe53972-cdb9-4000-ae6f-d260c6d702a2" />
