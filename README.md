@@ -217,3 +217,5 @@ C’est le test de base : il mesure la performance de lecture simple.
 <img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 33 48 PM" src="https://github.com/user-attachments/assets/e1513f6b-add1-4425-9c60-122c95490214" />
 <img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 34 19 PM" src="https://github.com/user-attachments/assets/155eb571-fb1e-462f-9ba7-70a4e35a7035" />
 <img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 36 24 PM" src="https://github.com/user-attachments/assets/b7074acf-ec5b-41c7-be1b-44560b7ddb7b" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 38 23 PM" src="https://github.com/user-attachments/assets/6c4e07e9-16b4-4268-8337-666514f99d49" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 38 49 PM" src="https://github.com/user-attachments/assets/bd343278-438a-448d-bf6b-17002153f4d0" />
