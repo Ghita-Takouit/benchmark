@@ -207,3 +207,13 @@ C’est le test de base : il mesure la performance de lecture simple.
 <img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 16 PM" src="https://github.com/user-attachments/assets/872f966a-9d3e-474e-a4f2-b479d7c8088a" />
 <img width="1589" height="922" alt="Screenshot 2025-11-07 at 4 01 26 PM" src="https://github.com/user-attachments/assets/74e33f99-0aeb-4c4d-9c96-aec07bd8f09f" />
 <img width="1456" height="805" alt="Screenshot 2025-11-07 at 4 01 51 PM" src="https://github.com/user-attachments/assets/3fe53972-cdb9-4000-ae6f-d260c6d702a2" />
+
+# Scenario Mixed
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 28 59 PM" src="https://github.com/user-attachments/assets/0a160fe3-f068-4468-9243-20441a5af258" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 30 50 PM" src="https://github.com/user-attachments/assets/84a438d7-a673-4ab9-8a5a-021091e8e358" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 31 50 PM" src="https://github.com/user-attachments/assets/8c0d2bc1-9ddc-4ce5-9bd1-6df6994ba48d" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 32 42 PM" src="https://github.com/user-attachments/assets/71a5ee97-fe2a-4eed-94f8-b7eaf18e7ba2" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 33 24 PM" src="https://github.com/user-attachments/assets/f3f51e3d-fe8b-4373-b427-fb09719f532d" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 33 48 PM" src="https://github.com/user-attachments/assets/e1513f6b-add1-4425-9c60-122c95490214" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 34 19 PM" src="https://github.com/user-attachments/assets/155eb571-fb1e-462f-9ba7-70a4e35a7035" />
+<img width="1456" height="952" alt="Screenshot 2025-11-07 at 4 36 24 PM" src="https://github.com/user-attachments/assets/b7074acf-ec5b-41c7-be1b-44560b7ddb7b" />
